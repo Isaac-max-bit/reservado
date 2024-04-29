@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+}
+
+.tech{
+    width: 400px;
+    height: 200px;
+    margin-right: 20px;
+}
+.comp{
+    width: 400px;
+    height: 200px;
+    margin-left: 516px;
+}
+.contenedor2{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
+.contenedor{
+    
+    display: flex;
+    flex-direction: column;
+}
+.picture{
+    width: 350px;
+    align-self: center;
+}
+.btn{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+body{
+
+    background-image: url("software-2.jpg");
+
+}
